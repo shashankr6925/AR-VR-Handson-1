@@ -14,4 +14,6 @@ WebGL 🎮
 Outcome
 
 Understand WebGL setup, shaders, and 3D point visualization.
+
+you can view live here:
 https://shashankr6925.github.io/AR-VR-Handson-1/
